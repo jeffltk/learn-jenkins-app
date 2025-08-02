@@ -1,7 +1,7 @@
 pipeline {
     agent any
 
-    enviroment {
+    environment {
         NETLIFY_SITE_ID ='03023652-c916-4743-aca1-7de3d23cadbd'
     }
 
